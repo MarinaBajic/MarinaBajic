@@ -2,8 +2,8 @@
 ### IT student at Faculty of Sciences, University of Novi Sad | Aspiring Full-stack Developer
 <br>
 
-🔭 I’m currently working on a **2D platformer game**<br>
-🌱 I’m currently learning **Unity**<br>
+🔭 I’m currently working on a **web site using Astro.js and Tailwind.css**<br>
+🌱 I’m currently learning **React.js**<br>
 ⚡ Fun fact: I love going to hackathons, designing and developing web applications, reading, and solving puzzles.<br>
 
 ### Tech Stack:
