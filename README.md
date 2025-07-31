@@ -3,8 +3,8 @@
 <br>
 
 🔭 I’m currently working on a **web site using Astro.js and Tailwind.css**<br>
-🌱 I’m currently learning **React.js**<br>
-⚡ Fun fact: I love going to hackathons, designing and developing web applications, reading, and solving puzzles.<br>
+🌱 I’m currently learning **Cyber Security**<br>
+⚡ Fun fact: I love dancing, reading, sewing, and solving puzzles.<br>
 
 ### Tech Stack:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
