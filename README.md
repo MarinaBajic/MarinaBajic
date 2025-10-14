@@ -1,5 +1,5 @@
 # Marina Bajić
-### Master's IT student at Faculty of Sciences, University of Novi Sad | Aspiring Full-stack Developer
+### Master IT student at Faculty of Sciences, University of Novi Sad | Aspiring Full-stack Developer
 <br>
 
 🔭 I’m currently working on a **web site using Astro.js and Tailwind.css**<br>
